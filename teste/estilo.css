@@ -1,0 +1,40 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: lightgray;
+    min-width: 150px;
+    margin: 0px;
+    padding: 2px 10px 2px 10px;
+}
+
+header h1{
+    text-align: center;
+}
+
+header p{
+    text-align: center;
+}
+
+header ul {
+    list-style-position: inside;
+    columns: 2;
+    max-width: 400px;
+    margin: auto;
+}
+
+body {
+    background-color: rgb(30, 30, 30);
+}
+
+main {
+    background-color: white;
+    width: 600px;
+    height: 700px;
+    margin: auto;
+    margin-bottom: 30px;
+    border-radius: 0px 0px 10px 10px;
+}
