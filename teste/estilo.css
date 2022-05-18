@@ -32,9 +32,9 @@ body {
 
 main {
     background-color: white;
-    width: 600px;
-    height: 700px;
+    min-width: 600px;
+    min-height: 600px;
     margin: auto;
-    margin-bottom: 30px;
+    margin: 0px 20px 30px 20px;
     border-radius: 0px 0px 10px 10px;
 }
